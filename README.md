@@ -11,4 +11,4 @@ npm run dev
 
 `
 
-- [Live Site](https://react-day-4-react-components-govindcodes-projects.vercel.app/) 
+- [Live Site](https://react-shopping-cart-task.vercel.app/) 
